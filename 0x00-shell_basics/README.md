@@ -1,1 +1,1 @@
-print directories and files inworking directory
+listit displays the contents list of the current directory.
