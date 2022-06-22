@@ -1,2 +1,1 @@
-#! /bin/bash
-script current working directory.
+print directories and files inworking directory
