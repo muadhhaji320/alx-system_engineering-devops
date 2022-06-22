@@ -1,1 +1,1 @@
-my first readme
+this project is about script bash 
