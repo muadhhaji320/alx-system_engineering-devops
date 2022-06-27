@@ -1,1 +1,1 @@
-this project is about script bash 
+this project is about script bashf 
